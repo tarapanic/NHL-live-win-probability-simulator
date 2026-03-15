@@ -1,0 +1,1 @@
+A Node.js simulation that estimates live win probabilities during an NHL game based on game state variables such as score diff, shot diff, time remaining, and power play status. The model dynamically updates probabilities as in-game events occur, mimicking logic used in live sports betting models
